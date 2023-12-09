@@ -154,6 +154,8 @@ typedef struct
 
 ## 2.2. 基本操作的实现
 
+**Codes** are avaiable [here](code/).
+
 > 补充：操作算法中用到的预定义常量和类型
 
 ![](assets/2023-12-09-18-36-02.png)
